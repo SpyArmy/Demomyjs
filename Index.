@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Start up / Principles of Web Design</title>
+  <meta name="description" content="Bryson Start File with SCSS">
+  <meta name="author" content="Bryson Jensen">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;600;700&family=Sankofa+Display&display=swap" rel="stylesheet">
+  <link href="css/styles.min.css" rel="stylesheet">
+
+  <!--fav-icon here-->
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+  
+</head>
+<body>
+
+  <div id="headerWrapper">
+    <header>
+      <img  src="img/logosource4.png" width="40" height="40" alt="Logo">
+      <h1> Front end Developer</h1>
+    </header>
+  </div>
+
+  <div id="navWrapper">
+    <nav>
+      <ul>
+        <li class="active"><a href="#">Learn</a></li>
+        <li><a href="#">Pratice</a></li>
+        <li><a href="#">Implement</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div id="mainWrapper">
+    <main id="cards">
+		<h2>hi world</h2>
+
+
+
+
+ 
+    </main>
+  </div>
+
+  <div id="footerWrapper">
+    <footer>
+      <p>&copy; <span id="year">x</span> &bullet; Bryson Jensen  </p>
+    </footer>
+  </div>
+
+  <script src="js/scripts.js" type="module"></script>
+
+
+
+
+</body>
+</html>
